@@ -1,0 +1,11 @@
+{
+    "python.pythonPath": "/home/jonas/tensorflow/bin/python3",
+    "python.unitTest.unittestArgs": [
+        "-v",
+        "-s",
+        ".",
+        "-p",
+        "test_*.py"
+    ],
+    "python.unitTest.unittestEnabled": true
+}
